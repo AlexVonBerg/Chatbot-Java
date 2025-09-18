@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task-out" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task-out.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task-out.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Simple_Chat_Bot_with_Java-task.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Find_the_next_Unicode_character" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Find_the_next_Unicode_character.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Find_the_next_Unicode_character.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Theory" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Theory.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-Characters-Theory.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Check_burgs" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Check_burgs.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Check_burgs.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Comparing_strings_ignoring_whitespaces" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Comparing_strings_ignoring_whitespaces.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Comparing_strings_ignoring_whitespaces.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_character" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_character.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_character.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_specific_character_from_a_greeting_message" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_specific_character_from_a_greeting_message.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_specific_character_from_a_greeting_message.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_substring" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_substring.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Extracting_a_substring.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Theory" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Theory.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.Topics-String-Theory.test" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.util" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.util.main" target="21" />
+      <module name="Simple_Chat_Bot_with_Java.util.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

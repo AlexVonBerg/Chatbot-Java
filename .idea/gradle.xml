@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Simple Chat Bot with Java/task" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Simple Chat Bot with Java/task/out" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/Characters/Find the next Unicode character" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Check burgs" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/../../Üben/Simple Chat Bot with Java/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
